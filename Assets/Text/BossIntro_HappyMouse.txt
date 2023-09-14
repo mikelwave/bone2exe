@@ -1,0 +1,36 @@
+[talker = 0, emotion = 0, fontsize = 10.9] //Jumpscare
+HappyMouse.EXE? What the hell are you?
+What are you doing in video games?
+
+[talker = 1, emotion = 0] //HappyMouse.EXE
+Why I'm just walking, it's what
+lovecraftian beings love to do!
+
+[talker = 0, emotion = 1] //Jumpscare
+Cosmic horrors don't scare me,
+my gun will escort you to the next world.
+You don't belong here.
+
+[talker = 1, emotion = 0] //HappyMouse.EXE
+You lemon scented prick,
+Arrogance seeps from your bone marrow.
+
+~I will crash your little
+video game in minutes.~
+
+
+[talker = 1, emotion = 1, fontsize = 10.9] //HappyMouse.EXE
+Oh Boy!
+That fight cheered me right up!
+Thanks, mister! I feel so much better!
+
+Well, I'll be goin' now!
+Too-Da-Loo!
+
+[event] //Happymouse Leaving animation plays, and after he leaves there's a short pause
+[hidetime = 3]
+[talker = 0, emotion = 2] //Jumpscare
+I was just trying to kill him tbh.
+
+[event] // Goal Appear
+

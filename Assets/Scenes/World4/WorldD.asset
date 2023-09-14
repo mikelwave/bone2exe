@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58f78c1e9f144744d9a7a1189b270b86, type: 3}
+  m_Name: WorldD
+  m_EditorClassIdentifier: 
+  constantLevelDatas:
+  - levelScene: D-1
+    levelName: 'D-1: Industry Sickness'
+  - levelScene: D-2
+    levelName: 'D-2: Las Brujas'
+  - levelScene: D-3
+    levelName: 'D-3: Train Cabin Fever'
+  - levelScene: D-4
+    levelName: 'D-4: Ludo Luda'
+  - levelScene: D-5
+    levelName: 'D-5: Split Screen'
+  - levelScene: D-6
+    levelName: 'D-6: B-B-B-Busted'
+  - levelScene: D-7
+    levelName: 'D-7: Roller Miser'
+  - levelScene: D-8
+    levelName: 'D-8: Lisa Overdrive'
+  - levelScene: D-9
+    levelName: 'D-9: Spikehill Experiment'
+  - levelScene: D-10
+    levelName: 'D-10: Angel on Rock'
+  - levelScene: D-11
+    levelName: How to be Kind & Fair

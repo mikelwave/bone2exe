@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6651001671685266844
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4641469649215539724, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: db37f9e7df5ad2348acdaffb2613eed9, type: 2}
+    - target: {fileID: 4641469649512745040, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: deathEvent.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745040, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: deathEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745040, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: deathEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 2136463535304643543}
+    - target: {fileID: 4641469649512745040, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: deathEvent.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745040, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: deathEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: DropItem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745040, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: deathEvent.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: ItemDrop, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745040, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: deathEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745064, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745064, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745064, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745064, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745064, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745064, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745064, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745064, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745064, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745064, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745064, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4641469649512745067, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+      propertyPath: m_Name
+      value: SmalltownFigureHeal
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+--- !u!1 &2027968683298690551 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4641469649512745067, guid: db311c53c09c6724c838c44733f9d64c, type: 3}
+  m_PrefabInstance: {fileID: 6651001671685266844}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2136463535304643543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2027968683298690551}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f96532690247bd439b6b1b762cd4701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemDropNormal: {fileID: 6579786493122382244, guid: 05c4e7e55d8a96a488825371addc0bef, type: 3}
+  itemDromDark: {fileID: 8843925822869413306, guid: 3061e257ed8a97d4a9b1668e43694b33, type: 3}
+  dropItemVelocity: 150
+  normalMaterial: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}

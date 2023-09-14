@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: 069ab697cef75044791210d477ef33da
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 27
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bloody marry_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 540
+        width: 33
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9891e4caa76c83349a5c99c828e7b82f
+      internalID: 1536340832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 540
+        width: 33
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd248d76d970ec4ca23c00c92d1c5d8
+      internalID: 1878698841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 540
+        width: 39
+        height: 79
+      alignment: 9
+      pivot: {x: 0.64102566, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd3a5ce351466d4e8be1ea89ec0ca19
+      internalID: -200695617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 540
+        width: 42
+        height: 78
+      alignment: 9
+      pivot: {x: 0.6904762, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dcf4c6ec1ecc545b786487e4903474
+      internalID: 211212643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 540
+        width: 42
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6904762, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c2bfd223d71e242a1b3ae82a7269cf
+      internalID: -1749372258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 540
+        width: 33
+        height: 68
+      alignment: 9
+      pivot: {x: 0.54545456, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a206d9253b63c314aaacd9d096802302
+      internalID: -1202811422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_6
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 540
+        width: 37
+        height: 69
+      alignment: 9
+      pivot: {x: 0.3783784, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d39e74f9e97e444a02aa38e65c82e8
+      internalID: -152736778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_7
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 540
+        width: 38
+        height: 77
+      alignment: 9
+      pivot: {x: 0.39473686, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925400e8220d6e148990339e2571ef3d
+      internalID: 938765797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_8
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 540
+        width: 46
+        height: 82
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875bf39b2fee16c4b909784f1f77267e
+      internalID: 1502432596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_9
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 540
+        width: 53
+        height: 81
+      alignment: 9
+      pivot: {x: 0.2830189, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b568b95694edd46bf2442b6522418b
+      internalID: -1603559052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_10
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 540
+        width: 51
+        height: 80
+      alignment: 9
+      pivot: {x: 0.29411766, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8898c021aceb7c540a01f14df8c63ea4
+      internalID: 531050973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_11
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 540
+        width: 47
+        height: 79
+      alignment: 9
+      pivot: {x: 0.31914893, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09211fed6ae518c46aafefbd733d037e
+      internalID: -1849054257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 432
+        width: 52
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd54e6a4b518cc4d84ba5268b61b34a
+      internalID: 1839629651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 433
+        width: 67
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46c554b4b3bc8e45876add44691373d
+      internalID: -2005641194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 438
+        width: 78
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e4c4b90e206844299b66e4069ee3e0
+      internalID: 139682153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 432
+        width: 51
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db3776274fa71d4fa19e3fdec45143b
+      internalID: -1026054057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 432
+        width: 44
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef34c1d0f0ac194e8dde0d49ab98b2a
+      internalID: -1755810949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 442
+        width: 32
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c53cef555717e640b10da04a186ad00
+      internalID: -2050006018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 435
+        width: 35
+        height: 72
+      alignment: 9
+      pivot: {x: 0.34285715, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ed779ec5c1cc84e9b1661aed4f40c0
+      internalID: 448816499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_19
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 434
+        width: 40
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494d484080a9e404c9ba91e2bf6c260c
+      internalID: 677520251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_20
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 432
+        width: 39
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab52fa1e478506f42a491384dfdea618
+      internalID: -1299492351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_21
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 432
+        width: 43
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016cc7dbd05e642418fea3a673726eae
+      internalID: 666085359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_22
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 443
+        width: 51
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0660e389f4c8b488aa12ad14aaea69
+      internalID: -961183473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 324
+        width: 50
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7964068daa5b5914794a38967f1aa651
+      internalID: -1934041563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_26
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 324
+        width: 50
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa27f742ba4f20240b1dd2e23879a4c5
+      internalID: 2143802939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 324
+        width: 52
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5192308, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79372a67087f01644994e7a83b277ade
+      internalID: 541041996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_28
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 324
+        width: 53
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5471698, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d916c3b69fd90142828d9e12ff00b72
+      internalID: 1948596995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_29
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 324
+        width: 48
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4791667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91babfa1fa0567745aefb72861ffe781
+      internalID: -641962867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_30
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 324
+        width: 53
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eb20f7abf59bd4aac40a854bd3b135
+      internalID: -472775255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_31
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 324
+        width: 49
+        height: 83
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac0dbd3a14ee6445aa50b6c565d3bfc
+      internalID: 747618661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_32
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 324
+        width: 54
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a37f26bf637474e9f15f8832a96b7e
+      internalID: 1422079603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_33
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 324
+        width: 59
+        height: 89
+      alignment: 9
+      pivot: {x: 0.55932206, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0631654db373a84d8c7bf6f1a75f191
+      internalID: 892560699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_34
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 324
+        width: 57
+        height: 93
+      alignment: 9
+      pivot: {x: 0.31578946, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb213c32ede53444ab3fbc27f3fa9c54
+      internalID: -813016556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_36
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 324
+        width: 47
+        height: 87
+      alignment: 9
+      pivot: {x: 0.3829787, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682a768b1168f9748ba6ede0a3079511
+      internalID: 1564857301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_37
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 324
+        width: 43
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5116279, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd97ef1804982a04e9fa481e36e8aa69
+      internalID: -1063881447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 225
+        width: 53
+        height: 70
+      alignment: 9
+      pivot: {x: 0.6226415, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfc516e8b80ae94e8047088edca8252
+      internalID: 406858493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_41
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 224
+        width: 53
+        height: 71
+      alignment: 9
+      pivot: {x: 0.6226415, y: 0.014084507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc37d8ee6c813f489fd3e398da9c464
+      internalID: -1711381732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 225
+        width: 50
+        height: 70
+      alignment: 9
+      pivot: {x: 0.59999996, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696e1013465b3944186e754171426d0d
+      internalID: 1456320256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 225
+        width: 50
+        height: 70
+      alignment: 9
+      pivot: {x: 0.59999996, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9d18f8a6d85f24692cbc63f0dcd797
+      internalID: -657533050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_44
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 225
+        width: 43
+        height: 70
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c03f424ed267a4dad733cbb6d2d2ed
+      internalID: -746344532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 225
+        width: 54
+        height: 70
+      alignment: 9
+      pivot: {x: 0.6111111, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ce542370f9f924db4fffa6681ec4d8
+      internalID: 886654116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_46
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 225
+        width: 52
+        height: 71
+      alignment: 9
+      pivot: {x: 0.61538464, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61adf3cc144ba7f4fab3ee06b460e4b6
+      internalID: -120747897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_47
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 226
+        width: 50
+        height: 75
+      alignment: 9
+      pivot: {x: 0.58, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd82b8cbb14f0243a6ddc2dc7a9828e
+      internalID: 99154098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_49
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 225
+        width: 54
+        height: 71
+      alignment: 9
+      pivot: {x: 0.6111111, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbe821546bc4bf4fae84329321d9b86
+      internalID: 993747024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_51
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 225
+        width: 50
+        height: 70
+      alignment: 9
+      pivot: {x: 0.59999996, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059ed67f55fbf764a94ce1fc01f01fb9
+      internalID: -1786413489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_52
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 224
+        width: 58
+        height: 71
+      alignment: 9
+      pivot: {x: 0.6551724, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ac99e0d108e7141a19ef2a9890565f
+      internalID: 1433850566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_57
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 108
+        width: 34
+        height: 84
+      alignment: 9
+      pivot: {x: 0.47058824, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0681837d83aebb4ba335bdff57badd2
+      internalID: 1465954337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 108
+        width: 45
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e700e01859009489634e50c6bba878
+      internalID: -1907929440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 108
+        width: 62
+        height: 85
+      alignment: 9
+      pivot: {x: 0.58064514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb504d5c2c6e17043ab366337ddab8d4
+      internalID: -1686356196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_60
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 108
+        width: 57
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2589593114ef3bc41bca7a526f11f805
+      internalID: -226746832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_61
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 118
+        width: 40
+        height: 70
+      alignment: 9
+      pivot: {x: 0.475, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516c516c641814847a9ebc35674a15d7
+      internalID: 151840042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_62
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 118
+        width: 42
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5952381, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021e66c522ccfab49a4b835bd43757dd
+      internalID: -1935959718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_63
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 118
+        width: 51
+        height: 74
+      alignment: 9
+      pivot: {x: 0.64705884, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53224b13d8998040aee7b13036a225e
+      internalID: -2032437447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_64
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 118
+        width: 49
+        height: 73
+      alignment: 9
+      pivot: {x: 0.63265306, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea27d75c2b820449a7d3e8fbaf54187
+      internalID: 357057716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_65
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 120
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0374fbc39ad894889ffd4f125ba1c8
+      internalID: -249877868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_66
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 155
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635573d63f597fe428f68272275ddeec
+      internalID: -484041187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_67
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 120
+        width: 20
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c03e02150c2fc4e8a77fdeb0ff8100
+      internalID: -2039015134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_68
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 120
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a872a47918d8b4696ec89df704fa90
+      internalID: 1838047709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_69
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 51
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fbe8122e82a524283908d1d86fa725
+      internalID: 1990041408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_70
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 35
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0b16ced7e8c7b429f5ccbb404abab1
+      internalID: 299645465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_71
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 37
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9e1117e42c3d944a04b235e1b5c725
+      internalID: -431767919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_72
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 36
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f0c8f16fea11b47bbcf44e51971054
+      internalID: -74054952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_73
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 70
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6571429, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629ba5dec58bfb04186c84cb3c162dfb
+      internalID: 676392268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_74
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 77
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6883117, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a20a485024c0284b807860b3b87174b
+      internalID: 1716844854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_75
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 77
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6883117, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2bc07635a9376478560221a9ae4a90
+      internalID: -267670725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_76
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 77
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6883117, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb7c00aa30a76941b204d8f0d323363
+      internalID: -870264737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_77
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 77
+        height: 28
+      alignment: 9
+      pivot: {x: 0.6883117, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928267caeb7491d4e9bbc3e4c89e1753
+      internalID: -607479439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_78
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 4
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545d05fc00b8f2a47b2d85d3f1c0428c
+      internalID: -2141203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloody marry_79
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 0
+        width: 20
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6672f127c4f82458013c77f7029cd8
+      internalID: 975851386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bloody marry_43: -657533050
+      bloody marry_17: -2050006018
+      bloody marry_7: 938765797
+      bloody marry_62: -1935959718
+      bloody marry_13: -2005641194
+      bloody marry_78: -2141203
+      bloody marry_14: 139682153
+      bloody marry_69: 1990041408
+      bloody marry_27: 541041996
+      bloody marry_40: 406858493
+      bloody marry_16: -1755810949
+      bloody marry_37: -1063881447
+      bloody marry_51: -1786413489
+      bloody marry_46: -120747897
+      bloody marry_66: -484041187
+      bloody marry_68: 1838047709
+      bloody marry_3: 211212643
+      bloody marry_47: 99154098
+      bloody marry_63: -2032437447
+      bloody marry_73: 676392268
+      bloody marry_5: -1202811422
+      bloody marry_75: -267670725
+      bloody marry_32: 1422079603
+      bloody marry_11: -1849054257
+      bloody marry_20: -1299492351
+      bloody marry_33: 892560699
+      bloody marry_0: 1536340832
+      bloody marry_35: -1371434364
+      bloody marry_50: -874320289
+      bloody marry_61: 151840042
+      bloody marry_55: 372212296
+      bloody marry_67: -2039015134
+      bloody marry_24: -612188300
+      bloody marry_6: -152736778
+      bloody marry_48: -1613953020
+      bloody marry_21: 666085359
+      bloody marry_10: 531050973
+      bloody marry_23: -1745045353
+      bloody marry_71: -431767919
+      bloody marry_44: -746344532
+      bloody marry_29: -641962867
+      bloody marry_52: 1433850566
+      bloody marry_58: -1907929440
+      bloody marry_18: 448816499
+      bloody marry_19: 677520251
+      bloody marry_72: -74054952
+      bloody marry_2: -200695617
+      bloody marry_77: -607479439
+      bloody marry_60: -226746832
+      bloody marry_53: -1939934393
+      bloody marry_65: -249877868
+      bloody marry_28: 1948596995
+      bloody marry_12: 1839629651
+      bloody marry_25: -1934041563
+      bloody marry_74: 1716844854
+      bloody marry_57: 1465954337
+      bloody marry_39: 840361336
+      bloody marry_26: 2143802939
+      bloody marry_36: 1564857301
+      bloody marry_59: -1686356196
+      bloody marry_30: -472775255
+      bloody marry_34: -813016556
+      bloody marry_49: 993747024
+      bloody marry_42: 1456320256
+      bloody marry_45: 886654116
+      bloody marry_31: 747618661
+      bloody marry_8: 1502432596
+      bloody marry_1: 1878698841
+      bloody marry_38: -1144276497
+      bloody marry_76: -870264737
+      bloody marry_22: -961183473
+      bloody marry_4: -1749372258
+      bloody marry_9: -1603559052
+      bloody marry_41: -1711381732
+      bloody marry_54: -2061458572
+      bloody marry_56: -399064524
+      bloody marry_70: 299645465
+      bloody marry_64: 357057716
+      bloody marry_79: 975851386
+      bloody marry_15: -1026054057
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

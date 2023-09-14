@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58f78c1e9f144744d9a7a1189b270b86, type: 3}
+  m_Name: WorldB
+  m_EditorClassIdentifier: 
+  constantLevelDatas:
+  - levelScene: B-1
+    levelName: 'B-1: Ain''t no Sunshine'
+  - levelScene: B-2
+    levelName: 'B-2: Cheap'
+  - levelScene: B-3
+    levelName: 'B-3: Higher Ground'
+  - levelScene: B-4
+    levelName: 'B-4: Architect'
+  - levelScene: B-5
+    levelName: 'B-5: Shooting Footage'
+  - levelScene: B-6
+    levelName: 'B-6: Horse Shoe'
+  - levelScene: B-7
+    levelName: 'B-7: Nightmare Sequence'
+  - levelScene: B-8
+    levelName: 'B-8: Edgy Helplessness'
+  - levelScene: B-9
+    levelName: 'B-9: Resist the Scalar'
+  - levelScene: B-10
+    levelName: 'B-10: Running After'
+  - levelScene: B-11
+    levelName: 'B-11: Tails Doll'

@@ -1,0 +1,36 @@
+[talker = 1, emotion = 0, fontsize = 10.9] //Mr Mix
+Hello creepypasta.com, it's ya boy
+Mr. Mix here! I'll be making my famous
+recipes, bring out your keyboard!
+
+[talker = 0, emotion = 0] //Jumpscare
+Look here you mario teaches typing wannabe,
+your cliche creepypasta and equally
+much-to-be-desired games end here. I'll be
+cancelling your cooking show with this gun here.
+
+[talker = 1, emotion = 0] //Mr mix
+Hypocrite that you are, you criticise
+creepypastas for their cliches and overuse
+of blood and gore, when your little action game
+also has excessive blood and gore.
+
+[emotion = 1]
+And judging by your dialog, your idea of
+comedy comes from those fuckin youtube
+commentary channels that bashed others for
+cheap laughs and became passe like 5 years ago.
+
+[emotion = 2, fontsize = 16]
+Your critisisms are empty and
+destructive. They have no meat
+on their bones.
+
+[talker = 0, emotion = 1, fontsize = 10.9] //Jumpscare
+......... oh... I... uhh-
+
+[talker = 1, emotion = 3, fontsize = 56] //Mr mix
+ASSHOLE.
+
+
+

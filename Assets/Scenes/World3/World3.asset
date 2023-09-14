@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58f78c1e9f144744d9a7a1189b270b86, type: 3}
+  m_Name: World3
+  m_EditorClassIdentifier: 
+  constantLevelDatas:
+  - levelScene: 3-1
+    levelName: '3-1: Morning Mood'
+  - levelScene: 3-2
+    levelName: '3-2: Extra Jumps'
+  - levelScene: 3-3
+    levelName: '3-3: Helious'
+  - levelScene: 3-4
+    levelName: '3-4: Between Scylla & Charybdis'
+  - levelScene: 3-5
+    levelName: '3-5: Bridge Under'
+  - levelScene: 3-6
+    levelName: '3-6: Pressure Cooker'
+  - levelScene: 3-7
+    levelName: '3-7: Castl Fall'
+  - levelScene: 3-8
+    levelName: '3-8: Recurring Joke'
+  - levelScene: 3-9
+    levelName: '3-9: Consequences'
+  - levelScene: 3-10
+    levelName: '3-10: Target Practice'
+  - levelScene: 3-11
+    levelName: '3-11: Mr. Mix'

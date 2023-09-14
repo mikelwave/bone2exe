@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58f78c1e9f144744d9a7a1189b270b86, type: 3}
+  m_Name: World4
+  m_EditorClassIdentifier: 
+  constantLevelDatas:
+  - levelScene: 4-1
+    levelName: '4-1: Not Perfect'
+  - levelScene: 4-2
+    levelName: '4-2: Small Town Figures'
+  - levelScene: 4-3
+    levelName: '4-3: Trans-Europe Express'
+  - levelScene: 4-4
+    levelName: '4-4: Downtown Screams'
+  - levelScene: 4-5
+    levelName: '4-5: Ricochet '
+  - levelScene: 4-6
+    levelName: '4-6: Walking on Broken Glass'
+  - levelScene: 4-7
+    levelName: '4-7: The Suspect'
+  - levelScene: 4-8
+    levelName: '4-8: Hopscotch'
+  - levelScene: 4-9
+    levelName: '4-9: Hill Act 1'
+  - levelScene: 4-10
+    levelName: '4-10: Antisocial Ghosts'
+  - levelScene: 4-11
+    levelName: How to be Kind & Fair

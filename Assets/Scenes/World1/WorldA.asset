@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58f78c1e9f144744d9a7a1189b270b86, type: 3}
+  m_Name: WorldA
+  m_EditorClassIdentifier: 
+  constantLevelDatas:
+  - levelScene: A-1
+    levelName: 'A-1: Take your Time'
+  - levelScene: A-2
+    levelName: 'A-2: The Parabola'
+  - levelScene: A-3
+    levelName: 'A-3: Tower of Nails'
+  - levelScene: A-4
+    levelName: 'A-4: Staircase Game'
+  - levelScene: A-5
+    levelName: 'A-5: Wall of Borough'
+  - levelScene: A-6
+    levelName: 'A-6: Glavo Luda'
+  - levelScene: A-7
+    levelName: 'A-7: The 13 Hotels'
+  - levelScene: A-8
+    levelName: 'A-8: Macess of Swing'
+  - levelScene: A-9
+    levelName: 'A-9: Twisted Streets'
+  - levelScene: A-10
+    levelName: 'A-10: Moral Wind'
+  - levelScene: A-11
+    levelName: 'A-11: Assassin'

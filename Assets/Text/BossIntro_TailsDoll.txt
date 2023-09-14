@@ -1,0 +1,60 @@
+[talker = 1, emotion = 0, fontsize = 10.9] //Tails doll
+So, another racer has come to challenge me.
+Do you mortals never learn to just walk away?
+
+[talker = 0, emotion = 2] //Jumpscare
+First of all: This is only level 10,
+why the fuck are you here?
+
+[emotion = 0]
+Second, I'm here to throw down on shitty
+creepypastas, not race.
+
+[emotion = 1] //Tails doll
+By the way your creepypasta is easily the worst
+one, I can smell you from down here.
+
+[talker = 1, emotion = 0] //Tails doll
+Don't swear in my level,
+Thank you...
+Hmmm...
+
+...But also, you're probably right...
+You really seem to like bringing others
+down because of what's ultimately
+free internet horror games.
+
+My creepypasta and my games might be bad,
+but at least more people will remember me than
+they will remember you.
+
+[talker = 0, emotion = 0] //Jumpscare
+Nice try pal, but you winning a popularity contest
+isn't gonna get to me. It will only make me want
+to shoot you in the face more.
+
+[talker = 1, emotion = 1] //Tails doll
+I'm not afraid of your idle threats,
+~There is no sunshine for you~.
+
+[talker = 0, emotion = 2] //Jumpscare
+No sunshine for me, huh.
+So that means I have... Unshine?
+
+[talker = 1, emotion = 0] //Tails doll
+...
+
+What?
+
+[talker = 0, emotion = 2] //Jumpscare
+Uhh...
+
+[emotion = 1] //Jumpscare
+It's a BAD joke to point out how ~STUPID~
+your lines are. Your dialogue is so cliche.
+I'm the one that's mocking others, not you!
+
+[talker = 1, emotion = 1] //Tails doll
+Save your whining for the finish line, comedian.
+That is... ~if you can reach it before I do~.
+

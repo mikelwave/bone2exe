@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58f78c1e9f144744d9a7a1189b270b86, type: 3}
+  m_Name: WorldC
+  m_EditorClassIdentifier: 
+  constantLevelDatas:
+  - levelScene: C-1
+    levelName: 'C-1: Daylight'
+  - levelScene: C-2
+    levelName: 'C-2: Summer in the City'
+  - levelScene: C-3
+    levelName: 'C-3: All Goes Back In The Box'
+  - levelScene: C-4
+    levelName: 'C-4: Stress'
+  - levelScene: C-5
+    levelName: 'C-5: Bridges Network'
+  - levelScene: C-6
+    levelName: 'C-6: Brutal Planet'
+  - levelScene: C-7
+    levelName: 'C-7: Anti-Ritos'
+  - levelScene: C-8
+    levelName: 'C-8: The Carpal Tunnel'
+  - levelScene: C-9
+    levelName: 'C-9: Desolation Row'
+  - levelScene: C-10
+    levelName: 'C-10: Learn to Aim'
+  - levelScene: C-11
+    levelName: 'C-11: Mr. Mix'

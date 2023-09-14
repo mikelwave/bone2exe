@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 1bde08b0e51c99943a200144bce6129b, type: 3}
+  iconMaxWidth: 480
+  iconMaxHeight: 270
+  title: Bone2.exe project
+  sections:
+  - heading: Licensing
+    text: The code is licensed under Artistic License 2.0. You may use parts or heavily
+      modify it for commerical games, but you may not commercially use the code "as
+      is" as your own. This applies to audio-visual reskins, bug fixes, functionality
+      tweaks & included packages.
+    linkText: 
+    url: 
+  - heading: 
+    text: By using this project you agree to these terms.
+    linkText: Bone2 video tutorials URL
+    url: https://www.youtube.com/playlist?list=PLfPaipjpQx6mz2VgzYEH-Bm9zm79ngcCO
+  - heading: Getting started
+    text: If you're completely new to Unity, look up how basic navigation around
+      the interface works first. The most important folder contents are described
+      below, the others probably shouldn't be touched if you're a novice.
+    linkText: 
+    url: 
+  - heading: 
+    text: Assets/Scenes folder holds all the game scenes, Assets/Editor/Scenes folder
+      holds all the editor-only scenes meant for testing, as well as blank scene
+      templates for each world.
+    linkText: 
+    url: 
+  - heading: 
+    text: Assets/Graphics contains all the graphics files used by the game, except
+      for crash screens which are located in the Asstes/Resources folder.
+    linkText: 
+    url: 
+  - heading: 
+    text: Assets/StreamingAssets contains all the audio/video files that are streamed
+      into the game at run-time.
+    linkText: 
+    url: 
+  - heading: 
+    text: Assets/Prefabs contains presets for objects that are used in the game,
+      you may drag and drop them from their respective folders onto the scene.
+    linkText: 
+    url: 
+  - heading: 
+    text: Assets/Scripts contains all the scripts that are used by the game once
+      it is compiled.
+    linkText: 
+    url: 
+  - heading: 
+    text: Assets/Text contains all the text files used by the game.
+    linkText: 
+    url: 
+  - heading: Save file key
+    text: Next to this readme is a GameKey file. This key will encrypt a value into
+      your game's save files that will lock incompatible save files from loading.
+      It's recommended to change the values inside this key for your game.
+    linkText: 
+    url: 
+  - heading: Changing graphics/audio/video
+    text: When you find a file you want to edit, right-click on it in the Project
+      tab and select "show in explorer", this will open them in your OS's file explorer
+      where you may edit them like any other file on your computer. Left-clicking
+      on the file will show you Unity-specific options, for graphics refer to the
+      Unity Sprite Editor usage tutorial.
+    linkText: Sprite Editor Manual
+    url: https://docs.unity3d.com/Manual/SpriteEditor.html
+  - heading: Changing script files
+    text: All the scripts are written in C#, and will require some knowledge of the
+      language going in. To edit a script make sure you've set your preferred script
+      editor in Edit/Preferences/External Tools, then double click it inside Unity.
+    linkText: Visual Studio Code download
+    url: https://code.visualstudio.com/download
+  - heading: Editing scenes
+    text: Scenes are opened by double clicking them, elements on the scene can be
+      clicked on to be selected, if they aren't being blocked by other objects. They
+      can also be selected with the Hierarchy tab, which shows all the loaded objects
+      on the scene.
+    linkText: 
+    url: 
+  - heading: 
+    text: To test a scene, press the Play button in the top middle. Pause button
+      will pause the scene while it's playing, and the Frame button will advance
+      the scene by one tick while it's paused.
+    linkText: Scene view navigation manual
+    url: https://docs.unity3d.com/Manual/SceneViewNavigation.html
+  - heading: 
+    text: 
+    linkText: Hierarchy tab manual
+    url: https://docs.unity3d.com/Manual/Hierarchy.html
+  - heading: Compiling the game
+    text: When you want to make an executable for the game, go to File/Build Settings
+      to open the Build Settings window. All the scenes that you want to be in the
+      exe have to be added manually here. If you want to make a development build,
+      check the appropriate checkmark. Additional information can be found in the
+      Build Settings manual.
+    linkText: Build window manual
+    url: https://docs.unity3d.com/Manual/PublishingBuilds.html
+  loadedLayout: 1

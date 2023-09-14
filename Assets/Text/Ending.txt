@@ -1,0 +1,84 @@
+[talker = 0, emotion = 0, fontsize = 10.9] //Jumpscare
+Wow, that fight really completed my
+character arc and shit.
+Wasn't that cool, guys?
+
+And gals?
+
+[emotion = 1] //Jumpscare
+Those creepypasta demons have a good
+point though. Yeah... I see...
+
+While all art should be criticized, if you do
+so without respect or just going into it thinking
+you're better than it, you'll one day just fling
+shit at art that's unique and doesn't deserve it.
+
+Though I think creepypastas aren't the highest
+form of art out there, I should treat them with
+respect still. Even if they can be very stupid,
+that's still commendable and entertaining.
+
+Now that I've overcome my biases, I can
+truly accomplish my mission of getting
+rid of the Zalgo-Virus.
+
+[hidetime = 1]
+[talker = 0, emotion = 0, fontsize = 10.9] //Jumpscare
+... So, is someone gonna come over
+here and give me a trophy for going
+through all this, or...
+
+[event] //Event 1
+[hidetime = 2]
+[talker = 1, emotion = 0, fontsize = 10.9] //Rouge
+AHAHAHA! I AM ROUGE.WAD!
+I hold all the power to the Zalgo-Virus!
+And I am going to Hijack this Story!
+
+[event] //Event 2
+[hidetime = 5]
+[talker = 1, emotion = 0, fontsize = 10.9] //Rouge
+You shouldn't have fucked with the
+forces of Zalgo, ~bone boy~!
+Now this is OUR game! AHAHAHA!
+
+[talker = 0, emotion = 2] //Jumpscare
+~Not so fast~, you wretched bitch!
+I have anti-viruses!
+
+[event] //Event 3
+[talker = 1, emotion = 1] //Rouge
+You did not collect enough
+anti-viruses to harm ME!
+I am not afraid of you, ~bone boy~!
+
+[talker = 0, emotion = 3] //Jumpscare
+Oh yeah?
+Well eat THIS,
+Rat Face!
+
+[event] //Event 4
+[hidetime = 10]
+[talker = 1, emotion = 2] //Rouge
+Yeah actually, I give up. This is too
+much bullshit just to corrupt some
+video game characters.
+
+[talker = 1, emotion = 2]
+So fine. You win.
+Go fuck yourself, ~bone boy~.
+I'm outta here.
+
+[event] //Event 5
+[hidetime = 4]
+[talker = 0, emotion = 0]
+Welp, I saved the world from the
+Zalgo-Virus, and I want to think
+about it.
+
+With a job well done, it's time to
+go back home and see how well I did.
+
+[event] //Event 6
+

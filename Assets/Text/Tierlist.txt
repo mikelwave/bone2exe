@@ -1,0 +1,97 @@
+[talker = 1, emotion = 0, fontsize = 10.9] //Bones
+~Hello fellow bones!~
+I am your host, Bones, and
+this is my Gamer Tier List.
+
+Here I shall rank how good The Gamers are
+(based on the amount of vienetta
+ice cream cakes collected for me).
+
+[event] // Event 1
+
+
+[talker = 1, emotion = 2, fontsize = 10.9] //Bones, S Tier
+~Incredible!~
+You have looked through every nook and
+cranny to find as many cakes as possible!
+
+[event] // Event 2
+A brilliant feat for all bone kind!
+You deserve to be put up top with
+the big boy(s)in S Tier!
+
+[event] // Event 3
+Great work and Thanks for Playing!
+
+
+[talker = 1, emotion = 2, fontsize = 10.9] //Bones, A Tier
+Very Well done, That's a lot of
+ice cream cakes!
+
+[event] // Event 2
+You made it to A tier,
+an impressive display of
+gaming for sure.
+
+[event] // Event 3
+But you still haven't reached
+the intimidating position of S tier...
+Perhaps next time, Thanks for Playing!
+
+
+[talker = 1, emotion = 0, fontsize = 10.9] //Bones, B Tier
+~Believable!~ You have gone out of
+your way to pick up... some ice cream
+cakes throughout your journey.
+
+[event] // Event 2
+This puts you at B tier on my tier list.
+Though it wouldn't hurt to go back to
+get some more, surely.
+
+[event] // Event 3
+Either way, Thanks for Playing!
+
+
+[talker = 1, emotion = 0, fontsize = 10.9] //Bones, C Tier
+Ah, an OK amount of ice cream cakes.
+
+[event] // Event 2
+You could go back and try getting some
+more, but for now this is enough to
+save me a single trip to the food store.
+
+[event] // Event 3
+Thanks for Playing!
+
+
+[talker = 1, emotion = 3, fontsize = 10.9] //Bones, D Tier
+What? This is hardly any
+ice cream cakes at all!
+
+[event] // Event 2
+Not even enough to get me
+through a rainy day.
+
+[event] // Event 3
+Try going back and getting some more,
+but for now Thanks for Playing!
+
+
+[talker = 1, emotion = 3, fontsize = 10.9] //Bones, F Tier
+~Unbelievable!~
+You actually didn't get any
+of the ice cream cakes!
+
+Even the Trashbug accidentally
+picked one up.
+
+[event] // Event 2
+I have lost what little respect
+I have for you, but that's
+how the cookie rolls.
+
+[event] // Event 3
+Thanks for Playing
+(in the strictest definition possible)!
+

@@ -1,0 +1,29 @@
+[talker = 0, emotion = 0, fontsize = 10.9] //Jumpscare
+Hey buddy, you and your creepypasta
+friends have been terrorizing
+innocent games over here.
+
+I'm here to take care of this
+Zalgo infection goin' on.
+
+[talker = 1, emotion = 0] //Assassin
+This boss requires access to
+your "My Pictures" folder.
+
+Allow "The Assassin"
+access to your photos?
+
+[talker = 0, emotion = 1] //Jumpscare
+What?
+No, fuck off!
+
+[talker = 1] //Assassin
+Wrong answer, ~bone boy~.
+
+[emotion = 1] //Assassin
+Prepare to have your
+health drained over time.
+
+[fontsize = 16] //Assassin
+Bitch.
+

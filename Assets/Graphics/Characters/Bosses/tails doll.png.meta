@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 5a2f2f1c8f96f114fbbe31a2f5c34589
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 27
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tails doll_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 120
+        width: 51
+        height: 84
+      alignment: 9
+      pivot: {x: 0.47058827, y: 0.48809525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee485bfe129a59d4d8243967264ba7d7
+      internalID: 2032336492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails doll_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 122
+        width: 51
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4901961, y: 0.4698795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c499bdad4a507be48b0469945fc766f7
+      internalID: 1768701397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails doll_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 124
+        width: 53
+        height: 79
+      alignment: 9
+      pivot: {x: 0.3584906, y: 0.51898736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca0e160519badf4c8dab9f043c7c15a
+      internalID: 998341470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails doll_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 126
+        width: 54
+        height: 79
+      alignment: 9
+      pivot: {x: 0.4074074, y: 0.51898736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401956de3bb2cdf488dc34aefe44614d
+      internalID: -1264865320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails doll_4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 126
+        width: 54
+        height: 79
+      alignment: 9
+      pivot: {x: 0.4074074, y: 0.51898736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f58ac96b0098048af0f7732e50c7c9
+      internalID: -1618760991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails doll_5
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 126
+        width: 38
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4473684, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a817b611749b1344bbaeea431998cc40
+      internalID: -1394879773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails doll_6
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 123
+        width: 55
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4181818, y: 0.4883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b33540be287e842b9d67996a54ea7a
+      internalID: 1008549276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails doll_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 12
+        width: 44
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b700fda06ee3243af5ebf8aeb30d28
+      internalID: -1124320146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails doll_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 22
+        width: 47
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5319149, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e7774b2f114fc4bbd806b606f9cdda
+      internalID: -520723928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails doll_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 22
+        width: 48
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5208334, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d901f2185e7080548a359f64c29d7b36
+      internalID: -1332445608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails doll_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 28
+        width: 65
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bddb5175a43ca74bb978b6f46d2296e
+      internalID: -1675057146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails doll_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 28
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797b64718af410e4a814203251ad5c82
+      internalID: 1226752604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails doll_12
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 28
+        width: 66
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e9972870020034f8dd43d2382c16b9
+      internalID: 47166603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tails doll_13
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 29
+        width: 81
+        height: 61
+      alignment: 9
+      pivot: {x: 0.20987654, y: 0.65573764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443152a153a95b443be55cf5a2c3574e
+      internalID: 991876940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tails doll_6: 1008549276
+      tails doll_13: 991876940
+      tails doll_7: -1124320146
+      tails doll_1: 1768701397
+      tails doll_3: -1264865320
+      tails doll_5: -1394879773
+      tails doll_4: -1618760991
+      tails doll_11: 1226752604
+      tails doll_8: -520723928
+      tails doll_2: 998341470
+      tails doll_9: -1332445608
+      tails doll_0: 2032336492
+      tails doll_12: 47166603
+      tails doll_10: -1675057146
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

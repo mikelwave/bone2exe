@@ -1,0 +1,35 @@
+[talker = 1, emotion = 0, fontsize = 10.9] //Marry
+...
+
+[talker = 0, emotion = 0, fontsize = 10.9] //Jumpscare
+...
+
+Okay, my respect for you guys is
+really being tested.
+
+[emotion = 1] //Jumpscare
+Why the hell do you have a machine gun?
+Am I really supposed to take that seriously?
+
+[talker = 1] //Marry
+¿Quién diablos eres?
+¿Eres de un juego en inglés?
+¿Cómo has llegado aquí?
+
+[talker = 0, emotion = 2] //Jumpscare
+ 
+
+Look, idunno what you just said,
+I just gotta do my job and beat you
+in ranged combat.
+
+[emotion = 3] //Jumpscare
+If getting rid of this Zalgo Virus includes
+fighting pushover joke characters like you,
+then so be it.
+
+[talker = 1, emotion = 1] //Marry
+¿Qué?
+¿Vas a pelear conmigo sin siquiera entenderme?
+Te voy a enseñar que es el respeto.
+

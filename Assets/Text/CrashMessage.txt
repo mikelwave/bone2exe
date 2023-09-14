@@ -1,0 +1,16 @@
+FATAL ERROR!
+
+BALANCE_LVL_LESS_OR_EQUAL (j1)
+An attempt was made to access a pageable (or completely invalid) address at an
+interrupt request level (LVL) that is too low.  This is usually
+caused by skeletons using improper life remaining values.
+If kernel debugger is available get stack backtrace.
+
+Arguments:
+Arg1: fffff808add1dc9c, memory referenced
+Arg2: 0000000000000216, ESC
+Arg3: 0000000000000000, value 0 = read operation, 1 = write operation
+Arg4: fffff808adc0cb2a, address which referenced memory
+(Pretty solid arguments, I'd say.)
+
+Program exited with code: 1

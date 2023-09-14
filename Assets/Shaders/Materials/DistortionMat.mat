@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DistortionMat
+  m_Shader: {fileID: -6465566751694194690, guid: 28962bcb105356e49a4d6eea1a7cbed2, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_d3b3125304524accad286442da61f7a7:
+        m_Texture: {fileID: 2800000, guid: 19c5f14468b7f984bba42105b46c22e7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _mainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_0c7eddb87c154052864e94a2a0e9d96c: 0.0002
+    - Vector1_a2fe6e644589431f871416e276dafd1b: 10
+    - Vector1_aa7034590a5842abb5134084e8abc8f6: 0.3
+    - _DistortionSpeed: 0.3
+    - _EnableExternalAlpha: 0
+    m_Colors:
+    - Vector2_05b48c59627942e595dcabf069327495: {r: 0.01, g: 0, b: 0, a: 0}
+    - Vector2_0ae473ac2eaa4c24b95b4f512b919c60: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_453d52f857b54335b417e8d36c593bfa: {r: 1, g: 2, b: 0, a: 0}
+    - Vector2_9e48f486b68c4e72972093d25fa855f2: {r: 30, g: 0, b: 0, a: 0}
+    - Vector2_cb134a45417d49d0b70fd5d2df52955d: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_e3b195b1986e45359934dd0424de7b33: {r: 0.1, g: 0, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _KeyColor: {r: 1, g: 0, b: 0.6470588, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _UV: {r: 1, g: 1, b: 0, a: 0}
+    - _uv: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []

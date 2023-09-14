@@ -1,0 +1,14 @@
+#Phase1
+Egg
+Pear
+Apple
+#Phase2
+Salt
+Salad
+Carrot
+#Phase3
+Potato
+Ketchup
+Pepperoni
+#Finale
+Baby

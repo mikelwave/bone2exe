@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58f78c1e9f144744d9a7a1189b270b86, type: 3}
+  m_Name: World2
+  m_EditorClassIdentifier: 
+  constantLevelDatas:
+  - levelScene: 2-1
+    levelName: '2-1: Sunshine.exe'
+  - levelScene: 2-2
+    levelName: '2-2: Ice Bugs'
+  - levelScene: 2-3
+    levelName: '2-3: Pale Luna'
+  - levelScene: 2-4
+    levelName: '2-4: Mystic Manor'
+  - levelScene: 2-5
+    levelName: '2-5: Camera Heads'
+  - levelScene: 2-6
+    levelName: '2-6: Golconde'
+  - levelScene: 2-7
+    levelName: '2-7: No Backpeddling'
+  - levelScene: 2-8
+    levelName: '2-8: Traffic'
+  - levelScene: 2-9
+    levelName: '2-9: Huh? What?'
+  - levelScene: 2-10
+    levelName: '2-10: Chasing'
+  - levelScene: 2-11
+    levelName: '2-11: Tails Doll'

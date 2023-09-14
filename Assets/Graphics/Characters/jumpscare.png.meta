@@ -1,0 +1,1574 @@
+fileFormatVersion: 2
+guid: 0161f455656398844b6fbbc86a483d44
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 27
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jumpscare_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 408
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.25, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1879009f1033b24494e375093e45a78
+      internalID: 2041957457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 410
+        width: 19
+        height: 19
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c227d10982c1ef044bfed06c0dab731d
+      internalID: -1302789088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 411
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1d69bf1c4f2b54f856d8cbcf18a9d0
+      internalID: -1624739537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 409
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0.31578946, y: 0.21739131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d06d86405ca4442b4ee7d0a1aaa47f
+      internalID: 1319596443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 406
+        width: 20
+        height: 18
+      alignment: 9
+      pivot: {x: 0.3, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359810ce552a51442a049bf0dcac3376
+      internalID: -1202484939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 408
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.25, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec2f80dba463734c9d122cb2ddc5114
+      internalID: -1645919776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 376
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8429faa6f5adc1641ab5ac3ffce687c2
+      internalID: -914911635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 376
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bedbb9fcaa1ed14db6c8eef3e309640
+      internalID: 523498632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 376
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c85f4a39954f44a8fb38fbf303f332
+      internalID: 1711558536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 376
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815ce83d5cf64b24abd088caab3c1846
+      internalID: 1717703613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 376
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c98d2f091a4dca49b931a97879fd12e
+      internalID: -971624696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 375
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc428947de4af041a4c37eb7ad629b1
+      internalID: 781701178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 344
+        width: 34
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0446b744a8fb704db29160f55d232b0
+      internalID: -1756184769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 344
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53acecdbe59db1948830679c4baef088
+      internalID: 1225444763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 344
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25925925, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65093e6c7c65a2e4b800588474456024
+      internalID: 1601115953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 343
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25925925, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3f457adbab15d4fb24f20a4120d578
+      internalID: -1079785629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 334
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3927eb6fc11e7a4499c8f84c52dae606
+      internalID: 1079499867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_17
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 333
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af247d23a8f1526479d03508bbf0b41e
+      internalID: -1106961352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 273
+        width: 46
+        height: 48
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0.2916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2c4e1751c19734683d4304e67598e3
+      internalID: 996286947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 273
+        width: 44
+        height: 46
+      alignment: 9
+      pivot: {x: 0.40909094, y: 0.30434784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d595514fe63c7a04f8c340b4a469cc7d
+      internalID: -533985954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 273
+        width: 40
+        height: 47
+      alignment: 9
+      pivot: {x: 0.475, y: 0.27659574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa157663e04c344f9536ec6763e6575
+      internalID: -1886587624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 273
+        width: 40
+        height: 47
+      alignment: 9
+      pivot: {x: 0.475, y: 0.27659574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04380def9bebee4b8ca559a0f1bb476
+      internalID: -953091729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_22
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 298
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7ee1e997261b7478b7814309efe8bf
+      internalID: 290554119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 299
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51fb8d2a4f8ce343b08c9c6ada47e0e
+      internalID: 1212575267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c747f3fdcdccd488fbf446f0183359
+      internalID: -229244145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 299
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab6e4ac87d135644b1452c431518859
+      internalID: 1616683950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 273
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621bc9f29c3406143b2a0314318857ff
+      internalID: 1887557691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_27
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 272
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b305933d4627cd45a7b44aa847ea67f
+      internalID: 1929005849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 273
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecf5d5f164a0c34381d2e0c02afd68d
+      internalID: 1338677029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 276
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caca30968bd14e47a6f9b4c83b285f7
+      internalID: 876372218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 220
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8382ce93d594a004f874333cffb05d11
+      internalID: -1937150327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 221
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d30899fed3368419ba3bf1c602e6c7
+      internalID: -1801780724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 222
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8650fd3861438c449a2fef44b57b7b9c
+      internalID: 502272632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 220
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f76b2dcbb96bf940867e5d1e3c8c4c8
+      internalID: -1607904089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_34
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 221
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be51b7ec1b9e164684f15c191f6b9c0
+      internalID: 167874960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_35
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 220
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495700e8ebb4103409622acf518a8cb3
+      internalID: 126800879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 166
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29f76cc86a89e7469ca7c9b698f9203
+      internalID: 413054185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_37
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 167
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8427405a796814a48adf68e176afaf48
+      internalID: 1722680504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 163
+        width: 18
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e0864cc4e6d454aa5fbb4222745a1e
+      internalID: -195936897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 163
+        width: 18
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287f79f9d0602a1498757f01d6734ef8
+      internalID: -1798285993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 165
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4634146, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c69ed25bf7047d478783e310fa5aee4
+      internalID: -2141547755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_41
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 165
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4634146, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d011d10be45fa934ea0b82e223950bbe
+      internalID: -1116569949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 124
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec81be5b2148234b91a0671fc2fc38b
+      internalID: 2145038465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 124
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07caa3d1161c6fb41829e018dbf84b5e
+      internalID: 307247185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_44
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 124
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5de9c83afe784847a7b6df87c3d8c6a
+      internalID: 1298913506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_45
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 124
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1d8ca1b9a65bd4c91f222c5f9b628c
+      internalID: 754609160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_46
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 124
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da96e670cd9708e42a3839fa416699c4
+      internalID: 1646258051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_47
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 123
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0392d432a84909b4ab2c701377f8e67f
+      internalID: -525053153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_51
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 53
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2943b28fca98434983b7e1ece06628b
+      internalID: 986749164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 56
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f030122b6fc924045a7e6471c42852e6
+      internalID: 1269944904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_53
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 54
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707edf33174350b42a70282070de6f3e
+      internalID: -2123298297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_54
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 54
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda1ac8933ec2b743bf8a456ca81c224
+      internalID: 990383599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 54
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f28cbc36386794199a40130028c1ae
+      internalID: 1821433517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 53
+        width: 38
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc003ceccb318f4d9203b35d323081f
+      internalID: 899223339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_57
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 46
+        height: 46
+      alignment: 9
+      pivot: {x: 0.36956522, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884ce1b585ce3dd4b90d1703fa68c126
+      internalID: 1490393408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3
+        width: 46
+        height: 46
+      alignment: 9
+      pivot: {x: 0.36956522, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32788dbc910761e4cad69a2a562a5f02
+      internalID: -2104051449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_59
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 4
+        width: 46
+        height: 45
+      alignment: 9
+      pivot: {x: 0.36956522, y: 0.2888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26daa3dc80c7fc44b87445a6a2c837ce
+      internalID: -1946193049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 46
+        height: 45
+      alignment: 9
+      pivot: {x: 0.36956522, y: 0.2888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab1b379ae4d73c49997c02de35ebd9d
+      internalID: 1187522095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_61
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.25531915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c947d5a840ee74b4ebf6f93eedb9cd03
+      internalID: -1969311712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_62
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 4
+        width: 38
+        height: 47
+      alignment: 9
+      pivot: {x: 0.39473686, y: 0.25531915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f82257717a5be0408d5a1324dc7dcb2
+      internalID: -1015792507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 443
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.25, y: 0.23529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6751c302aed6ac94a89f741fae8834b6
+      internalID: 1410350247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 445
+        width: 20
+        height: 18
+      alignment: 9
+      pivot: {x: 0.3, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc807712700c7dd4cadd036bfc86a0ae
+      internalID: -232659310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_50
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 445
+        width: 17
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.1851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5365a8e67e43f8044bf776ea1bcffc2f
+      internalID: 1665566976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_63
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 443
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0.3, y: 0.20833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac086766613d14e4bb6ceab75b0d8eec
+      internalID: 375166406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_64
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 440
+        width: 22
+        height: 16
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfce3f959316c1419098a40954ccbf8
+      internalID: 2089740684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpscare_65
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 443
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.2631579, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170a43c2dde4a404cb5bfc729f0939fc
+      internalID: 1127456469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jumpscare_2: -1624739537
+      jumpscare_24: -229244145
+      jumpscare_50: 1665566976
+      jumpscare_20: -1886587624
+      jumpscare_29: 876372218
+      jumpscare_51: 986749164
+      jumpscare_28: 1338677029
+      jumpscare_53: -2123298297
+      jumpscare_6: -914911635
+      jumpscare_55: 1821433517
+      jumpscare_12: -1756184769
+      jumpscare_13: 1225444763
+      jumpscare_40: -2141547755
+      jumpscare_3: 1319596443
+      jumpscare_64: 2089740684
+      jumpscare_62: -1015792507
+      jumpscare_5: -1645919776
+      jumpscare_42: 2145038465
+      jumpscare_16: 1079499867
+      jumpscare_17: -1106961352
+      jumpscare_4: -1202484939
+      jumpscare_0: 2041957457
+      jumpscare_46: 1646258051
+      jumpscare_26: 1887557691
+      jumpscare_38: -195936897
+      jumpscare_27: 1929005849
+      jumpscare_31: -1801780724
+      jumpscare_48: 1410350247
+      jumpscare_10: -971624696
+      jumpscare_22: 290554119
+      jumpscare_44: 1298913506
+      jumpscare_58: -2104051449
+      jumpscare_15: -1079785629
+      jumpscare_23: 1212575267
+      jumpscare_61: -1969311712
+      jumpscare_47: -525053153
+      jumpscare_65: 1127456469
+      jumpscare_54: 990383599
+      jumpscare_30: -1937150327
+      jumpscare_49: -232659310
+      jumpscare_41: -1116569949
+      jumpscare_56: 899223339
+      jumpscare_18: 996286947
+      jumpscare_19: -533985954
+      jumpscare_52: 1269944904
+      jumpscare_7: 523498632
+      jumpscare_35: 126800879
+      jumpscare_39: -1798285993
+      jumpscare_57: 1490393408
+      jumpscare_45: 754609160
+      jumpscare_1: -1302789088
+      jumpscare_33: -1607904089
+      jumpscare_11: 781701178
+      jumpscare_32: 502272632
+      jumpscare_8: 1711558536
+      jumpscare_25: 1616683950
+      jumpscare_36: 413054185
+      jumpscare_60: 1187522095
+      jumpscare_9: 1717703613
+      jumpscare_34: 167874960
+      jumpscare_21: -953091729
+      jumpscare_37: 1722680504
+      jumpscare_59: -1946193049
+      jumpscare_43: 307247185
+      jumpscare_63: 375166406
+      jumpscare_14: 1601115953
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
