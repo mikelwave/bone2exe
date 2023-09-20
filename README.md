@@ -48,7 +48,7 @@ This project is licensed under the Artistic License 2.0 License - see the LICENS
    * Angry Video Game Nerd II - Dookie Dookie Panic (Butt Karaoke Version) by UOKEI
    * GoldenEye 007 - Runway (Grant Kirkhope) by Jay Reichard (edited by mikelwave)
    * Ultrakill - Duel (Heaven Pierce Her) by SoberCake
-   * Sonic Mania - MiniBoss by JustinJKJ (edited by MGZone)
+   * Sonic Mania - MiniBoss by JustinJKJ
    * AVGN: Game Over - The Crawling Chaos by LordGavin
    * Kirby Mass Attack - The Skull Gang by Mark Fredrick Graves Jr
    * Kirby 64 - Factory Investigation by KnightOfGames
